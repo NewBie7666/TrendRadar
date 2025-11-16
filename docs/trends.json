@@ -1,3 +1,6 @@
-[
-
-]
+{
+  "items": [
+    { "title": "示例：微博热搜1", "url": "https://s.weibo.com/weibo?q=示例1" },
+    { "title": "示例：头条热榜1", "url": "https://www.toutiao.com" }
+  ]
+}
